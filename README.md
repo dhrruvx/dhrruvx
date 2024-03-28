@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python,C,C++,Java,MySQL**
+- 💬 Ask me about **Python, C, C++, Java, MySQL**
 
 - 📫 How to reach me **dhruvbhutra04@gmail.com**
 
