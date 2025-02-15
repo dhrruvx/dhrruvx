@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **RoboDoc**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Python, C, C++, Java, MySQL**
+- 💬 Ask me about **Python, C, C++, Java, MySQL, Flutter, Dart, HTML/CSS, Javascript**
 
 - 📫 How to reach me **dhruvbhutra04@gmail.com**
 
